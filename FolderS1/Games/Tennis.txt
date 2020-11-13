@@ -1,0 +1,6 @@
+This game supports two modes -
+1. Single player
+2. Multi player
+
+
+
