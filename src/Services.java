@@ -37,6 +37,7 @@ class Services {
                 s.append(read);
                 s.append("\n");
             }
+            br.close();
             return s.toString();
         } catch (Exception e) {
             return null;
